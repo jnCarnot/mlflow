@@ -4,11 +4,11 @@ This repository contains runnable notebooks that allow you to have a glimpse of 
 
 
 ### **1. MLflow Local Edition**
-> Installation of mlflow
-> Connecting mlflow to the environment 
-> Example iris_model to demonstrate logging & metadata to be viewed on mlflow ui
-> Model serving + calling the model with `curl` and through Python request library
-> Building a docker image (more on 4. Docker Quick Guide)
+- Installation of mlflow
+- Connecting mlflow to the environment 
+- Example iris_model to demonstrate logging & metadata to be viewed on mlflow ui
+- Model serving + calling the model with `curl` and through Python request library
+- Building a docker image (more on 4. Docker Quick Guide)
 
 ### **2. MLflow_SQLite Local Database Edition**
 > Connecting mlflow to database such as sqlite as backend store to store metadata
