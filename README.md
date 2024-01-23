@@ -37,13 +37,6 @@ This repository contains runnable notebooks that allow you to have a glimpse of 
 - Constructing custom wrapper to cope with Prophet's custom input methodology
 - Calling the custom wrapper through docker and predicting with curl and through request library
 
-### **7. NSSM**
-- What is NSSM
-- Installation of NSSM
-- Run the NSSM service
-- Edit properties of service
-- Monitor running service
-
 ### **mlflow_features**
 - Concept Guide of mlflow
 - Setting/Connecting mlflow experiments
